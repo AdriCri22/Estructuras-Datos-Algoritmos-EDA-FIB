@@ -41,6 +41,8 @@ Para información sobre cómo compilar y ejecutar programas, visitad:
 | Average case performance  | O(n^2)  |
 | Auxiliary Space           | O(1)  |
 
+![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/Imagenes/selectionSort.gif "Selection Sort")
+
 ## Merge Sort
 
 | Case  | Performance |
@@ -50,6 +52,8 @@ Para información sobre cómo compilar y ejecutar programas, visitad:
 | Average case performance  | O(n log n)  |
 | Auxiliary Space           | O(n)  |  
 
+![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/Imagenes/mergeSort.gif "Merge Sort")
+
 ## Quick Sort
 
 | Case  | Performance |
@@ -58,6 +62,8 @@ Para información sobre cómo compilar y ejecutar programas, visitad:
 | Best case performance  | O(n log n)  |
 | Average case performance  | O(n log n)  |
 | Auxiliary Space           | O(log(n)) |
+
+![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/Imagenes/quickSort.gif "Quick Sort")
 
 ## Comparación entre los Algoritmos DFS y BFS
 
