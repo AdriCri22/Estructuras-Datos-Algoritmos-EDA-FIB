@@ -9,5 +9,6 @@ Para información sobre cómo compilar y ejecutar programas, visitad:
 
   https://github.com/AdriCri22/Programacion-1-PRO1-FIB
 
-Inline-style: 
+
+Comparación entre los Algoritmos DFS y BFS
 ![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/dfs-vs-bfs.gif "DFS vs BFS")
