@@ -10,5 +10,51 @@ Para información sobre cómo compilar y ejecutar programas, visitad:
   https://github.com/AdriCri22/Programacion-1-PRO1-FIB
 
 
-Comparación entre los Algoritmos DFS y BFS
+## Bubble Sort
+
+| Case  | Performance |
+| :---: | :---: |
+| Worst case performance   | O(n^2)  |
+| Best case performance  | O(n)  |
+| Average case performance  | O(n^2)  |
+| Auxiliary Space           | O(1)  |
+
+## Insertion Sort
+
+| Case  | Performance |
+| :---: | :---: |
+| Worst case performance   | O(n^2)  |
+| Best case performance  | O(n)  |
+| Average case performance  | O(n^2)  |
+| Auxiliary Space           | O(1)  |
+
+## Selection Sort
+
+| Case  | Performance |
+| :---: | :---: |
+| Worst case performance   | O(n^2)  |
+| Best case performance  | O(n^2)  |
+| Average case performance  | O(n^2)  |
+| Auxiliary Space           | O(1)  |
+
+## Merge Sort
+
+| Case  | Performance |
+| :---: | :---: |
+| Worst case performance   | O(n log n)  |
+| Best case performance  | O(n log n)  |
+| Average case performance  | O(n log n)  |
+| Auxiliary Space           | O(n)  |  
+
+## Quick Sort
+
+| Case  | Performance |
+| :---: | :---: |
+| Worst case performance   | O(n^2)  |
+| Best case performance  | O(n log n)  |
+| Average case performance  | O(n log n)  |
+| Auxiliary Space           | O(log(n)) |
+
+## Comparación entre los Algoritmos DFS y BFS
+
 ![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/dfs-vs-bfs.gif "DFS vs BFS")
