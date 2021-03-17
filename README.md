@@ -19,15 +19,18 @@ Para información sobre cómo compilar y ejecutar programas, visitad:
 | Average case performance  | O(n^2)  |
 | Auxiliary Space           | O(1)  |
 
+![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/Imagenes/bubbleSort.gif "Bubble Sort")
+
 ## Insertion Sort
 
-![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/Imagenes/bubbleSort.gif "Bubble Sort")
 | Case  | Performance |
 | :---: | :---: |
 | Worst case performance   | O(n^2)  |
 | Best case performance  | O(n)  |
 | Average case performance  | O(n^2)  |
 | Auxiliary Space           | O(1)  |
+
+![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/Imagenes/insertionSort.gif "Insertion Sort")
 
 ## Selection Sort
 
