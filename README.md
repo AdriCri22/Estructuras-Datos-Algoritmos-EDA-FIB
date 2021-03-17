@@ -21,6 +21,7 @@ Para información sobre cómo compilar y ejecutar programas, visitad:
 
 ## Insertion Sort
 
+![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/Imagenes/bubbleSort.gif "Bubble Sort")
 | Case  | Performance |
 | :---: | :---: |
 | Worst case performance   | O(n^2)  |
@@ -57,4 +58,4 @@ Para información sobre cómo compilar y ejecutar programas, visitad:
 
 ## Comparación entre los Algoritmos DFS y BFS
 
-![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/dfs-vs-bfs.gif "DFS vs BFS")
+![alt text](https://github.com/AdriCri22/Estructuras-Datos-Algoritmos-EDA-FIB/blob/main/Imagenes/dfs-vs-bfs.gif "DFS vs BFS")
